@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title></title>
   </head>
-  <body>
-  $END$
+  <body style="background-color:mediumseagreen">
+  <h1 style="padding-top: 20%; padding-bottom: 20%; text-align: center"> Location de voitures anciennes</h1>
+
   </body>
 </html>
